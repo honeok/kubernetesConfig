@@ -1,4 +1,4 @@
-# k8s
+# Kubernetes Config
 ````
     Install EFK: https://www.cnblogs.com/dukuan/p/9891198.html
     Install RabbitMQ Cluster: https://www.cnblogs.com/dukuan/p/9897443.html
